@@ -1,0 +1,9 @@
+c:\users\frjo\documents\visual studio 2015\Projects\Tribonacci\Tribonacci\bin\Debug\Tribonacci.exe.config
+c:\users\frjo\documents\visual studio 2015\Projects\Tribonacci\Tribonacci\bin\Debug\Tribonacci.exe
+c:\users\frjo\documents\visual studio 2015\Projects\Tribonacci\Tribonacci\bin\Debug\Tribonacci.pdb
+c:\users\frjo\documents\visual studio 2015\Projects\Tribonacci\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
+c:\users\frjo\documents\visual studio 2015\Projects\Tribonacci\Tribonacci\obj\Debug\Tribonacci.exe
+c:\users\frjo\documents\visual studio 2015\Projects\Tribonacci\Tribonacci\obj\Debug\Tribonacci.pdb
+C:\Users\frjo\Documents\git\Tribonacci\Tribonacci\bin\Debug\Tribonacci.exe.config
+C:\Users\frjo\Documents\git\Tribonacci\Tribonacci\obj\Debug\Tribonacci.exe
+C:\Users\frjo\Documents\git\Tribonacci\Tribonacci\obj\Debug\Tribonacci.pdb
